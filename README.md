@@ -1,0 +1,2 @@
+# berserker-go
+Learning go
